@@ -1,2 +1,2 @@
-# EMC104_Usability-HCI-UI-Design
-Git repository for Usability, HCI, UI Design
+# EMC104 Usability HCI UI Design
+This is all my unity projects during taking the course of EMC104.
